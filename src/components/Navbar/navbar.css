@@ -1,0 +1,67 @@
+.navbar{
+    display: flex;
+    background-color: rgb(208, 40, 28);
+    justify-content: center;
+   
+    height: 140px;
+    align-items: center;
+    position: relative;
+}
+.navbar input{
+    border-radius: 12px;
+    outline: none;
+    width: 28vw;
+    
+    height: 60px;
+    font-size: 22px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    border: 1px solid whitesmoke;
+}
+.navbar img{
+    height: 90px;
+    width: 90px;
+    border-radius:50%;
+    border:1px solid red;
+    outline: none;
+   
+    background-color: rgb(208, 40, 28);
+   
+   
+}
+.navbar h3{
+    color: white;
+ font-size: 44px;
+ margin-left: 8px;
+ font-family:  'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.logo{
+    position: absolute;
+    display: flex;
+    align-items: center;
+    margin-left: -1072px;
+    background-color: rgb(208, 40, 28);
+}
+#pika{
+    position: absolute;
+    margin-left: 1320px;
+    border-radius: 50%;
+    background-color: rgb(208, 40, 28);
+    border: none;
+}
+.logo:hover{
+    cursor: pointer;
+  color: aliceblue;
+}
+.title:hover{
+    cursor: pointer;
+   color: aliceblue !important;
+}
+.srcbutton{
+    display: flex;
+    position: absolute;
+   
+    height: 60px;
+    align-items: center;
+    
+   margin-left: 400px;
+}

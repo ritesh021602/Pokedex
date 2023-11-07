@@ -1,5 +1,6 @@
 .App {
   text-align: center;
+  
 }
 
 .App-logo {
@@ -35,4 +36,20 @@
   to {
     transform: rotate(360deg);
   }
+}
+.image{
+ top: 0;
+ display: grid;
+ width: 100vw;
+grid-template-columns: 1fr;
+  height: 190px;
+display: inline-flex;
+opacity: 0.4;
+}
+.image img{
+  width: 100vw;
+}
+#gen{
+  font-size: 35px;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }

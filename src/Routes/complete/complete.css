@@ -1,0 +1,14 @@
+.container{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+.typename{
+    font-size: 28px;
+    display: flex;
+    color:  rgb(208, 40, 28);;
+    text-align: center;
+   margin-left: 60px;
+    font-family:  sans-serif;
+
+}

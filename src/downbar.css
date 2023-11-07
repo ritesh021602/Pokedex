@@ -1,0 +1,30 @@
+.downbar{
+    display: flex;
+    justify-content: space-around;
+    background-color: rgb(123, 28, 28);
+    margin-top:0;
+    height: 70px;
+    width: 100vw;
+    align-items: center;
+}
+select{
+    height: 32px;
+    outline: none;
+    border: none;
+    font-size: 22px;
+    background-color: rgb(123, 28, 28);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: white
+}
+.option{
+   margin-top: 18px; 
+   background-color:rgb(236, 240, 241) !important;
+   color: black;
+}
+.option:hover{
+    cursor: pointer;
+    color: red !important;
+}
+hr{
+    border: 2px solid black !important;
+}

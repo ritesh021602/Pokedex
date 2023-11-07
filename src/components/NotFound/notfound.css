@@ -1,0 +1,16 @@
+.not{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+img{
+    width: 393px;
+    height: 318px;
+   
+}
+.para{
+    color: black;
+    margin-top: 19px;
+    
+}
